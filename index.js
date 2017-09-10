@@ -36,4 +36,4 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 
 var testValue = funkyFunction()
-var theFunk = testValue
+var theFunk = testValue()
